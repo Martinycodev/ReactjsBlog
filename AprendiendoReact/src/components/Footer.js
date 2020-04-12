@@ -9,7 +9,7 @@ class Footer extends Component {
             <footer id="footer">
             <div className="center">
                 <p>
-                   &copy; Martinyco 
+                   &copy; Martinyco 2020
                 </p>
             </div>
             </footer>
